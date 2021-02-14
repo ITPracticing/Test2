@@ -1,0 +1,7 @@
+THis is initial for newfile2
+
+this created from master
+
+:)
+
+let's chn\ange somthing from remote (github)

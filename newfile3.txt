@@ -1,0 +1,6 @@
+this is newfile 3
+
+going to push oin remote
+
+hi guys
+
